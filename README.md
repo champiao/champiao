@@ -79,9 +79,39 @@
 
 ---
 
-## 🏆 Conquistas
+## 🏆 Conquistas GitHub
 
-- 🧊 **Arctic Code Vault Contributor** — Código contribuído preservado no Arctic Code Vault do GitHub
+<p>
+  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-0075ca?style=for-the-badge&logo=github&logoColor=white" alt="Arctic Code Vault Contributor"/>
+  <img src="https://img.shields.io/badge/Pull%20Shark-Achievement-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark"/>
+</p>
+
+- 🧊 **Arctic Code Vault Contributor** — Código preservado no Arctic Code Vault do GitHub
+- 🦈 **Pull Shark** — Conquistado por ter Pull Requests mergeados em repositórios
+
+---
+
+## 🎓 Formações & Certificados
+
+| Plataforma | Temas |
+|---|---|
+| <img src="https://img.shields.io/badge/Alura-0747A6?style=flat-square&logo=alura&logoColor=white"/> | Python, DevOps, programação geral |
+| <img src="https://img.shields.io/badge/The%20Cloud%20Bootcamp-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> | AWS Cloud, infraestrutura em nuvem e projetos reais |
+| <img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white"/> | Go / Golang, Docker, Python, Cloud |
+| <img src="https://img.shields.io/badge/KaSolutions-333333?style=flat-square&logo=graduation-cap&logoColor=white"/> | Formações técnicas especializadas |
+| <img src="https://img.shields.io/badge/Bootcamps-00ADD8?style=flat-square&logo=go&logoColor=white"/> | Imersões práticas em tecnologia |
+
+### Principais áreas de conhecimento certificado:
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Cloud%20Computing-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/DevOps-FF6C37?style=for-the-badge&logo=git&logoColor=white" alt="DevOps"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+</p>
+
+> 📁 Todos os certificados estão disponíveis em [github.com/champiao/certificados](https://github.com/champiao/certificados)
 
 ---
 
