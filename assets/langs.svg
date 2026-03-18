@@ -1,0 +1,101 @@
+<svg width="680" height="450" viewBox="0 0 680 450" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <style>
+    .bg     { fill: #0d1117; }
+    .border { fill: none; stroke: #30363d; stroke-width: 1; }
+    .div    { stroke: #21262d; stroke-width: 1; }
+    .title  { font: 500 13px "Segoe UI", sans-serif; fill: #58a6ff; }
+    .note   { font: 400  9px "Segoe UI", sans-serif; fill: #8b949e; }
+    .lname  { font: 400 11px "Segoe UI", sans-serif; fill: #e6edf3; }
+    .lpct   { font: 600 11px "Segoe UI", sans-serif; fill: #8b949e; }
+    .foot   { font: 400  9px "Segoe UI", sans-serif; fill: #8b949e; }
+  </style>
+</defs>
+
+<!-- ── CARD: Languages ── -->
+<rect class="bg border" x="8" y="8" width="664" height="434" rx="10"/>
+<text class="title" x="24"  y="36">Most Used Languages</text>
+<text class="note"  x="656" y="36" text-anchor="end">based on all 124 repos (public + private)</text>
+
+<!-- barra multicolor -->
+<rect x="24"  y="46" width="4"   height="8" rx="2" fill="#6e40c9"/>
+<rect x="28"  y="46" width="289" height="8"        fill="#6e40c9"/>
+<rect x="317" y="46" width="107" height="8"        fill="#f1e05a"/>
+<rect x="424" y="46" width="61"  height="8"        fill="#b07219"/>
+<rect x="485" y="46" width="38"  height="8"        fill="#563d7c"/>
+<rect x="523" y="46" width="29"  height="8"        fill="#2b7489"/>
+<rect x="552" y="46" width="22"  height="8"        fill="#e34c26"/>
+<rect x="574" y="46" width="17"  height="8"        fill="#4a9a60"/>
+<rect x="591" y="46" width="15"  height="8"        fill="#e44b23"/>
+<rect x="606" y="46" width="6"   height="8"        fill="#00ADD8"/>
+<rect x="612" y="46" width="12"  height="8"        fill="#30363d"/>
+<rect x="620" y="46" width="4"   height="8" rx="2" fill="#30363d"/>
+
+<!-- COL 1 -->
+<circle cx="32"  cy="86"  r="5" fill="#6e40c9"/>
+<text class="lname" x="42"  y="90" >PHP</text>
+<text class="lpct"  x="155" y="90"  text-anchor="end">48.60%</text>
+
+<circle cx="32"  cy="116" r="5" fill="#563d7c"/>
+<text class="lname" x="42"  y="120">CSS</text>
+<text class="lpct"  x="155" y="120" text-anchor="end">6.30%</text>
+
+<circle cx="32"  cy="146" r="5" fill="#4a9a60"/>
+<text class="lname" x="42"  y="150">SCSS</text>
+<text class="lpct"  x="155" y="150" text-anchor="end">2.80%</text>
+
+<circle cx="32"  cy="176" r="5" fill="#00ADD8"/>
+<text class="lname" x="42"  y="180">Go</text>
+<text class="lpct"  x="155" y="180" text-anchor="end">1.00%</text>
+
+<circle cx="32"  cy="206" r="5" fill="#3572A5"/>
+<text class="lname" x="42"  y="210">Python</text>
+<text class="lpct"  x="155" y="210" text-anchor="end">0.10%</text>
+
+<!-- COL 2 -->
+<circle cx="192" cy="86"  r="5" fill="#f1e05a"/>
+<text class="lname" x="202" y="90" >JavaScript</text>
+<text class="lpct"  x="332" y="90"  text-anchor="end">18.10%</text>
+
+<circle cx="192" cy="116" r="5" fill="#2b7489"/>
+<text class="lname" x="202" y="120">TypeScript</text>
+<text class="lpct"  x="332" y="120" text-anchor="end">4.90%</text>
+
+<circle cx="192" cy="146" r="5" fill="#e44b23"/>
+<text class="lname" x="202" y="150">HTML</text>
+<text class="lpct"  x="332" y="150" text-anchor="end">2.50%</text>
+
+<circle cx="192" cy="176" r="5" fill="#4f5d95"/>
+<text class="lname" x="202" y="180">Vue</text>
+<text class="lpct"  x="332" y="180" text-anchor="end">0.40%</text>
+
+<circle cx="192" cy="206" r="5" fill="#363636"/>
+<text class="lname" x="202" y="210">Solidity</text>
+<text class="lpct"  x="332" y="210" text-anchor="end">0.10%</text>
+
+<!-- COL 3 -->
+<circle cx="356" cy="86"  r="5" fill="#b07219"/>
+<text class="lname" x="366" y="90" >Java</text>
+<text class="lpct"  x="500" y="90"  text-anchor="end">10.00%</text>
+
+<circle cx="356" cy="116" r="5" fill="#e34c26"/>
+<text class="lname" x="366" y="120">Blade</text>
+<text class="lpct"  x="500" y="120" text-anchor="end">3.60%</text>
+
+<circle cx="356" cy="146" r="5" fill="#89e051"/>
+<text class="lname" x="366" y="150">Shell</text>
+<text class="lpct"  x="500" y="150" text-anchor="end">0.10%</text>
+
+<circle cx="356" cy="176" r="5" fill="#384d54"/>
+<text class="lname" x="366" y="180">Groovy</text>
+<text class="lpct"  x="500" y="180" text-anchor="end">0.02%</text>
+
+<circle cx="356" cy="206" r="5" fill="#da5b0b"/>
+<text class="lname" x="366" y="210">Jupyter Notebook</text>
+<text class="lpct"  x="500" y="210" text-anchor="end">0.09%</text>
+
+<!-- rodapé -->
+<line class="div" x1="24" y1="230" x2="644" y2="230"/>
+<text class="foot" x="338" y="244" text-anchor="middle">316,360,700 bytes · 33 linguagens detectadas em todos os repositórios</text>
+
+</svg>
