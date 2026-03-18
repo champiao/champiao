@@ -15,7 +15,7 @@
 - 💻 Desenvolvedor com **8+ anos de experiência** (desde 2018), atuando do frontend à infraestrutura
 - 🔭 Stack principal em **Go** para backends e APIs, **TypeScript/JavaScript** para frontends modernos
 - 🌐 Ampla experiência com **PHP/Laravel** em projetos de grande porte, incluindo ERPs e plataformas financeiras
-- ⛓️ Experiência com **Web3** — smart contracts em **Solidity**, carteiras HD e integrações blockchain
+- ⛓️ Experiência com **Web3** — smart contracts em **Solidity** e integrações blockchain
 - 🐳 Infraestrutura com **Docker**, CI/CD com **Jenkins**, automações em **Shell** e **Python**
 - 🧠 Mais de **2.500 commits** em projetos públicos e privados
 - 🌱 Sempre explorando novas tecnologias e construindo soluções reais
